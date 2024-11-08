@@ -1,5 +1,5 @@
 import { useState, useEffect } from 'react';
-import { Cloud, Sun, Moon, Thermometer, Search, Clock } from 'lucide-react';
+import { Thermometer, Search, Clock } from 'lucide-react';
 import { Switch } from "@/components/ui/switch";
 import { Label } from "@/components/ui/label";
 import { Input } from "@/components/ui/input";
